@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DB554CE0-8A90-4C0D-8998-8831A901368A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FingerPrints</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA2D96AF-4F16-422E-920A-8153A0248830</key>
+		<string>svn://127.0.0.1/svn/repository/demo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FingerPrints-master/FingerPrints.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA2D96AF-4F16-422E-920A-8153A0248830</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>FA2D96AF-4F16-422E-920A-8153A0248830</key>
+		<string>svn://127.0.0.1</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://127.0.0.1/svn/repository/demo/FingerPrints-master/FingerPrints.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA2D96AF-4F16-422E-920A-8153A0248830</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA2D96AF-4F16-422E-920A-8153A0248830</string>
+			<key>IDESourceControlWCCName</key>
+			<string>demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
