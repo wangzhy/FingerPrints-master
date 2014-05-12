@@ -5,41 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>DB554CE0-8A90-4C0D-8998-8831A901368A</string>
+	<string>9F7E5299-4E4C-4CC8-AF99-498A4FBA6671</string>
 	<key>IDESourceControlProjectName</key>
 	<string>FingerPrints</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>FA2D96AF-4F16-422E-920A-8153A0248830</key>
-		<string>svn://127.0.0.1/svn/repository/demo</string>
+		<key>F7E14016-3957-4414-B159-D01BB003C3F2</key>
+		<string>https://github.com/wangzhy/FingerPrints-master.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>FingerPrints-master/FingerPrints.xcodeproj/project.xcworkspace</string>
+	<string>FingerPrints.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FA2D96AF-4F16-422E-920A-8153A0248830</key>
-		<string>../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>FA2D96AF-4F16-422E-920A-8153A0248830</key>
-		<string>svn://127.0.0.1</string>
+		<key>F7E14016-3957-4414-B159-D01BB003C3F2</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>svn://127.0.0.1/svn/repository/demo/FingerPrints-master/FingerPrints.xcodeproj</string>
+	<string>https://github.com/wangzhy/FingerPrints-master.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FA2D96AF-4F16-422E-920A-8153A0248830</string>
+	<string>F7E14016-3957-4414-B159-D01BB003C3F2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>FA2D96AF-4F16-422E-920A-8153A0248830</string>
+			<string>F7E14016-3957-4414-B159-D01BB003C3F2</string>
 			<key>IDESourceControlWCCName</key>
-			<string>demo</string>
+			<string>FingerPrints-master</string>
 		</dict>
 	</array>
 </dict>
